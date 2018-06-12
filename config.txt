@@ -1,6 +1,7 @@
 pwd=123456
 username=zhangsan
 hello world from aa
+good morning from aa
 good afternoon
 
 erwieo
